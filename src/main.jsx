@@ -18,7 +18,7 @@ const router = createBrowserRouter([
       {path: "/editar/produtos/:id", element: <EditarProdutos/>},
       {path: "/excluir/produtos/:id", element:<ExcluirProdutos/>}
     ]
-  }
+  }.
 ]);
 
 //BLOCO DE ROTAS
